@@ -1,0 +1,116 @@
+/* stylelint-disable */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* stylelint-enable */
+#logo {
+    background-color: white;
+}
+
+header {
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    display: flex;
+}
+
+
+header nav {
+    margin-left: auto;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav {
+    width: 100%;
+    height: 0%;
+    position: fixed;
+    top: 0px;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-weight: bold;
+}
+
+nav a {
+    text-decoration: none;
+
+
+}
+
+ul {
+    float: right;
+    list-style: none;
+    margin-top: 1.25%;
+
+}
+
+ul li {
+    display: inline-block;
+
+}
+
+ul a li {
+    margin-right: 20px;
+    font-weight: bold;
+
+}
+
+body {
+    background-image: url(pattern.jpg);
+    background-repeat: repeat;
+}
+
+Section {
+   
+    Width: 80%;
+    Background: white;
+    Margin: 80px auto;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+p {
+    border-bottom: 1px solid;
+    padding-bottom: 12px;
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+h3 {
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+article {
+    padding-top: 70;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a {
+    text-decoration: none;
+}
+
+
+footer {
+    background-color: black;
+    height: 40px;
+    width: auto;
+    color: blanchedalmond;
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+
+
+
